@@ -1,3 +1,3 @@
 # Stock-predictions
 
-Predicts stock market
+Predicts stock market with supervised and deep learning
